@@ -1,0 +1,30 @@
+{
+  
+  "name": "track-back-app",
+  "version": "1.0.0",
+  "description": "A community-driven platform to help reunite lost items with their owners",
+  "main": "index.html",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite"
+  },
+  "keywords": [
+    "lost",
+    "found",
+    "items",
+    "community",
+    "tracking"
+  ],
+  "author": "Track Back App Team",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "tailwindcss": "^4.1.11",
+    "vite": "^7.0.4"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.11"
+  }
+}
+
+
